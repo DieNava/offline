@@ -9,12 +9,12 @@
   "orientation":"portrait",
   "icons":[
     {
-        "src": "zana.png",
+        "src": "./zana.png",
         "sizes": "512 x 512",
         "type": "image/png"
     },
     {
-        "src": "zana-192.png",
+        "src": "./zana-192.png",
         "sizes": "128 x 128",
         "type": "image/png"
     }
