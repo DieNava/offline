@@ -9,13 +9,13 @@
   "orientation":"portrait",
   "icons":[
     {
-        "src": "./zana.png",
-        "sizes": "512 x 512",
+        "src": "zana.png",
+        "sizes": "512x512",
         "type": "image/png"
     },
     {
-        "src": "./zana-192.png",
-        "sizes": "128 x 128",
+        "src": "zana-192.png",
+        "sizes": "128x128",
         "type": "image/png"
     }
     
