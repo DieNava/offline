@@ -3,7 +3,7 @@ const urlsToCache= [
     './',
     './index.html',
     './app.js',
-    'htpps://stackpath.boostrapcdn.com/boostrap/4.5.2/css/boostrap.min.css'   
+    'https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css'   
 ];
 
 //Evento de instlación
