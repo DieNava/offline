@@ -1,0 +1,24 @@
+{
+  "name": "Mi PWA Offline",
+  "short_name": "PWA Offline",
+  "description": "Una aplicacion web progresiva que funciona sin conexión",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "orientation":"portrait",
+  "icons":[
+    {
+        "src": "zana.png",
+        "sizes": "512 x 512",
+        "type": "image/png"
+    },
+    {
+        "src": "zana-192.png",
+        "sizes": "192 x 192",
+        "type": "image/png"
+    }
+    
+  ]
+
+}
